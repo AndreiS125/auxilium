@@ -1857,3 +1857,1089 @@ status
 2025-06-27 17:52:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
 2025-06-27 17:52:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
 2025-06-27 18:04:38 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:29:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 10:29:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:51:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Ligma (ID: fcf003ae-b104-4909-ae5c-0184f7acc017)
+2025-06-28 10:51:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:51:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: ObjectiveType.MAIN_OBJECTIVE)
+2025-06-28 10:51:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:54:09 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 10:54:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:54:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 10:54:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:54:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 10:54:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:54:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 10:54:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:57:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 10:57:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 10:58:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: ObjectiveType.MAIN_OBJECTIVE)
+2025-06-28 10:58:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:29:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 11:29:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:29:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 11:29:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:29:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 11:29:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:29:28 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 11:29:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:39:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: monkey (ID: bd395622-f1ba-48d9-91e5-f17f08e4211f)
+2025-06-28 11:39:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:40:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: ObjectiveType.SUB_OBJECTIVE)
+2025-06-28 11:40:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:41:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 11:41:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:41:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 11:41:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:44:22 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 11:44:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:44:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 11:44:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:44:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 11:44:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 11:55:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: fdzxgbfnchvgjbkh,n (Type: task)
+2025-06-28 11:55:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:08:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: c gvhbjnmlk,; (Type: task)
+2025-06-28 12:08:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:08:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:08:41 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-28 12:08:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:08:41 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:08:41 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:08:41.973880
+2025-06-28 12:08:41 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:08:41 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:08:41 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:08:42.009976
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-28 12:08:42 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-28 12:08:42 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-28 12:08:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: c gvhbjnmlk,; (Type: task)
+2025-06-28 12:08:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:09:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:161] - ✅ Deleted objective or task: 6b632ee4-4310-44a6-8536-add0676f1344
+2025-06-28 12:09:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:09:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:161] - ✅ Deleted objective or task: fcb9b397-6350-43b3-8b8c-e5b926e25681
+2025-06-28 12:09:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:09:45 - auxilium_planner.objective_repo - ERROR - [objective_repository.py:147] - ❌ Error updating objective or task: Objective or task with ID fcb9b397-6350-43b3-8b8c-e5b926e25681 not found
+2025-06-28 12:09:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: bf99b1a2-4214-4765-8e7d-70da4c63ff63)
+2025-06-28 12:09:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:10:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:10:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:10:07 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:10:07 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:10:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:10:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:10:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:10:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:10:29 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: 1bf98a0b-e4fd-4ad0-8feb-af47d7e090c8)
+2025-06-28 12:10:29 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:11:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:11:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:11:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:11:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:11:35 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:11:35 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:11:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:11:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:22 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:30 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:30 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:42 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:52 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:12:55 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:12:55 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:13:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:13:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:13:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:13:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:13:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-28 12:13:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:13:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 12:13:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:13:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-28 12:13:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:17:58 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:17:58 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:18:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:18:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:18:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:18:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:19:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:19:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:19:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:19:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:19:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:19:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:19:22 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 12:19:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:21:40 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:21:40 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:21:40.690413
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:21:40.717814
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-28 12:21:40 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-28 12:21:40 - watchfiles.main - INFO - [main.py:308] - 5 changes detected
+2025-06-28 12:21:40 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:21:41.112712
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:21:41.127513
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-28 12:21:41 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-28 12:21:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:29:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:29:25 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-28 12:29:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:29:25.903494
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:29:25.943956
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-28 12:29:25 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-28 12:29:26 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-28 12:29:56 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:29:57 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:29:57.374210
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:29:57.396204
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-28 12:29:57 - watchfiles.main - INFO - [main.py:308] - 5 changes detected
+2025-06-28 12:29:57 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:29:57.830092
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-28 12:29:57.844207
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-28 12:29:57 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-28 12:29:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:38:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 12:38:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:38:05 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 12:38:05 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:38:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 12:38:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:39:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: f6440b04-136e-484c-9fbf-a98dac15a275)
+2025-06-28 12:39:37 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:39:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 12:39:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:14 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:14 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:22 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:30 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:30 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 12:41:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 12:41:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:00:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:00:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:00:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:00:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:00:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:31 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:00:31 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:35 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:00:35 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:00:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:00:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:03:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:03:38 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:03:40 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:03:40 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:03:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:03:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:03:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:03:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:04:38 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:04:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:04:40 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:04:40 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:04:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:04:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:11 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:05:11 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:05:14 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:16 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:05:16 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:31 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:31 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:05:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-28 13:05:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:06:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:06:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:06:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:06:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:06:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:06:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:06:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:06:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:10:55 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:10:55 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:10:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:10:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:10:59 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:10:59 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:04 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:05 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:08 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:08 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:09 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:11 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:14:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:14:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:17:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:17:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:17:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:17:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:17:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:17:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:17:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:17:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:08 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:08 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:14 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:14 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:18:29 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:18:29 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:24:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:24:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:24:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 13:24:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:24:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 13:24:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:24:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 13:24:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:24:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:24:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:28:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:28:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:28:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:28:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:28:29 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:28:29 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:28:31 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:28:31 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 13:39:39 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:39:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:42 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:39:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:39:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 13:39:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 13:39:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 13:39:52 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:39:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 13:39:54 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 13:40:04 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 13:40:04 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:11:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:11:37 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:12:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:12:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:12:14 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:12:14 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:12:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:12:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:12:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:12:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:12:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:12:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:12:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:12:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:13:58 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:13:58 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:14:01 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:14:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:14:07 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:14:07 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:14:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:14:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:14:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:14:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:14:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:14:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:16 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:18:16 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:18:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:18:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:35 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:18:35 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:48 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:18:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:18:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:18:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:18:54 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:56 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:18:56 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:18:58 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:18:58 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:19:00 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:19:00 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:19:01 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:19:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:19:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:19:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:19:04 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:19:04 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:19:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:19:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:22:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: ObjectiveType.SUB_OBJECTIVE)
+2025-06-28 14:22:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:25:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:25:54 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:25:56 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:25:56 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:25:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:25:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:26:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: ObjectiveType.SUB_OBJECTIVE)
+2025-06-28 14:26:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:26:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: New objective that is nice (subjective) (ID: eceecc90-60d5-4be9-8c96-c3c718ed2a99)
+2025-06-28 14:26:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:27:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Main objective (ID: 6f1f069b-b5c1-4667-92ba-db78966dd488)
+2025-06-28 14:27:37 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:27:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Tasj 1 (ID: 0a303383-a195-4b9c-b6db-71eff130b458)
+2025-06-28 14:27:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:34:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:34:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:34:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Tasj 1 (Type: task)
+2025-06-28 14:34:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:34:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:34:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:34:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:34:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:34:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:34:54 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:34:59 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:34:59 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:35:07 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:35:07 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:35:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:35:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:36:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: fa04dbac-1397-4101-904c-15ac85619a86)
+2025-06-28 14:36:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:36:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:36:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:36:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:36:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:36:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: f8944c19-0e4a-4bd3-b556-e1443e287132)
+2025-06-28 14:36:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:36:55 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: ca801cc0-dfd4-4c89-bb83-41a12e56bf8a)
+2025-06-28 14:36:55 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:43:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:43:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:43:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:43:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:28 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: sub_objective)
+2025-06-28 14:43:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:31 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:43:31 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:48 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:43:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: task)
+2025-06-28 14:43:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:44:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: From 4 to 7 pm 02 (Type: ObjectiveType.TASK)
+2025-06-28 14:44:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:44:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:44:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:44:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:44:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:44:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: From 4 to 7 pm 02 (Rescheduled) (ID: 11ba6f70-d90b-4bd6-921c-2e526f5a02e1)
+2025-06-28 14:44:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:44:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:161] - ✅ Deleted objective or task: 11ba6f70-d90b-4bd6-921c-2e526f5a02e1
+2025-06-28 14:44:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:44:38 - auxilium_planner.objective_repo - INFO - [objective_repository.py:161] - ✅ Deleted objective or task: 831ec48f-8c31-41de-948a-ac735775979c
+2025-06-28 14:44:38 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 14:46:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:46:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:46:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:46:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: afesrgtdhyfmg (ID: 7aafb5fc-ae80-42c7-a231-79444218c971)
+2025-06-28 14:46:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: afesrgtdhyfmg (Type: task)
+2025-06-28 14:46:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: afesrgtdhyfmg (Type: ObjectiveType.SUB_OBJECTIVE)
+2025-06-28 14:46:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:46:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: afesrgdt (ID: fedddb56-ce40-4793-b27d-17e30870418f)
+2025-06-28 14:46:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:47:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: ObjectiveType.TASK)
+2025-06-28 14:47:54 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:47:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:47:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: ObjectiveType.TASK)
+2025-06-28 14:48:07 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:08 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:48:08 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:09 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:48:09 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:48:12 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:48:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:16 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:48:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 14:48:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:22 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 14:48:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:48:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Objective sigma (Type: task)
+2025-06-28 14:48:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:51:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:51:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:16 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:51:16 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-28 14:51:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-28 14:51:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-28 14:51:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 14:51:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: afesrgtdhyfmg (Type: sub_objective)
+2025-06-28 14:51:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:22:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 16:22:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:22:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: monkey (Type: task)
+2025-06-28 16:22:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:22:59 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-28 16:23:00 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:23:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: sub_objective)
+2025-06-28 16:23:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:23:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: sub_objective)
+2025-06-28 16:23:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:23:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: sub_objective)
+2025-06-28 16:23:11 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:23:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: ObjectiveType.SUB_OBJECTIVE)
+2025-06-28 16:23:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:23:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: afesrgtdhyfmg (Type: sub_objective)
+2025-06-28 16:23:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:23:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: afesrgtdhyfmg (Type: sub_objective)
+2025-06-28 16:23:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:24:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: ObjectiveType.SUB_OBJECTIVE)
+2025-06-28 16:24:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:24:30 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: sub_objective)
+2025-06-28 16:24:31 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:24:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: sub_objective)
+2025-06-28 16:24:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:24:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: New objective that is nice (subjective) (Type: sub_objective)
+2025-06-28 16:24:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-28 16:24:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-28 16:24:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 13:06:24.476324
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 13:06:24 - auxilium_planner.main - INFO - [main.py:90] - 🌟 Starting Auxilium server...
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 13:06:24.673881
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 13:06:24.769479
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 13:06:24 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 16:08:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 16:08:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 16:08:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 16:08:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 16:08:56 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 16:08:56 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:18 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:28 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:29 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:30 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-30 17:05:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 17:05:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: c55ea246-b1bb-42ee-96ae-d483425a1856)
+2025-06-30 17:05:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 17:05:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 17:05:52 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 18:55:01 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 18:55:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 18:55:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-30 18:55:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 18:55:04 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-30 18:55:04 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 18:55:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 18:55:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 18:55:08 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 18:55:08 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 18:58:16 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 18:58:16 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:35 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:35 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:37 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:05:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:05:52 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:13:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:13:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:13:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:13:37 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:13:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:13:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:13:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:13:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:14:01 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:14:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:14:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: It should now be free from its parents (Type: sub_objective)
+2025-06-30 19:14:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:21:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: dfc8b9c0-4fbb-4d9c-b395-cd0746aa5f7a)
+2025-06-30 19:21:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:21:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:21:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:21:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:21:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:21:28 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:21:29 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:26:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:26:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:26:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:26:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:26:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:26:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:26:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:26:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:27:01 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:27:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:27:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:27:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:37:59 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:38:00 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:38:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-30 19:38:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-30 19:38:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:07 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:38:07 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:38:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Tasj 1 (Type: task)
+2025-06-30 19:38:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:22 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Tasj 1 (Type: task)
+2025-06-30 19:38:22 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Tasj 1 (Type: task)
+2025-06-30 19:38:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: 2.5 hour long thingie (Type: main_objective)
+2025-06-30 19:38:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:38:37 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: sub_objective)
+2025-06-30 19:38:37 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:14 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:24 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:29 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:29 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:33 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:33 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:38 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:38 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:44:40 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Second task (Rescheduled) (Type: main_objective)
+2025-06-30 19:44:40 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:49:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Second task (Rescheduled) (ID: ae9f1e9e-c00e-497b-8c43-2795974d2bba)
+2025-06-30 19:49:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:49:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-30 19:49:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:49:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-30 19:49:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:49:56 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-30 19:49:56 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:50:10 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-30 19:50:10 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:51:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 19:51:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:51:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-30 19:51:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:53:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Ligma (Type: main_objective)
+2025-06-30 19:53:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:53:56 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 19:53:56 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:53:59 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: The first thing to exist for sure (Type: task)
+2025-06-30 19:53:59 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 19:54:51.271070
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 19:54:51 - auxilium_planner.main - INFO - [main.py:90] - 🌟 Starting Auxilium server...
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 19:54:51.460198
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 19:54:51.488769
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 19:54:51 - auxilium_planner.user_profile_repo - INFO - [user_profile_repository.py:30] - 👤 Created default user profile
+2025-06-30 19:54:51 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 19:58:11 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Basic Task 1 (ID: bf0ba079-3592-4d45-b62e-8042376a94d1)
+2025-06-30 19:58:11 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 19:58:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 19:58:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:06:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: ObjectiveType.TASK)
+2025-06-30 20:06:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:06:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:06:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:06:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:06:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:06:40 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:06:40 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:06:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:06:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:06:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:06:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:09:01 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:09:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:09:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:09:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:36 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:38 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:38 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:39 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:40 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:42 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:48 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:13:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:13:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:17:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:17:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:17:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:17:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:17:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:17:52 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:20:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:20:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:20:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:20:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:41 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:41 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:45 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:45 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:48 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:51 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:21:52 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:21:52 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:22:31 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:22:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:22:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:22:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:23 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:28 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:42 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:44 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:44 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:46 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:46 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:25:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:25:54 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:27:58 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:27:59 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:28:00 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:28:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:29:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:29:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:30:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:30:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:31:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:31:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:31:09 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:31:09 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:31:12 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:31:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:36:59 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:36:59 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:37:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:37:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:37:06 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:37:06 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:38:28 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:38:28 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:39:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:39:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:39:55 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:39:55 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:44:34 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Basic Task 1 (Type: task)
+2025-06-30 20:44:34 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:46:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:46:43 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:46:43.759879
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:46:43.788981
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 20:46:43 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 20:46:43 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-30 20:47:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:47:24 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 20:47:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:47:24.598657
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:47:24.624340
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 20:47:24 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 20:47:24 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-30 20:48:01 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:48:01 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:48:01.920310
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:48:01.943794
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 20:48:01 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 20:48:01 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-30 20:48:18 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:48:18 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:48:18.665626
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:48:18.685886
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 20:48:18 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 20:48:18 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-30 20:53:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:54:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:54:50 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 20:54:50 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:54:50.818095
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:54:50.842473
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 20:54:50 - auxilium_planner.user_profile_repo - INFO - [user_profile_repository.py:30] - 👤 Created default user profile
+2025-06-30 20:54:50 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 20:54:51 - watchfiles.main - INFO - [main.py:308] - 5 changes detected
+2025-06-30 20:54:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 20:54:53 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:54:53.585780
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 20:54:53.602819
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 20:54:53 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 20:54:53 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-30 21:14:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Task objective 1 (ID: e4614325-f39a-425f-88a4-6dcffff00583)
+2025-06-30 21:14:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:15:05 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:15:05 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:15:13 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:15:13 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:18:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:18:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:18:17 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK)
+2025-06-30 21:18:17 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:18:20 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:18:20 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:18:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK)
+2025-06-30 21:18:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:18:30 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:18:30 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:18:32 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:18:32 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:21:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:21:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:21:27 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:21:27 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:21:29 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 21:21:29 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 21:21:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK)
+2025-06-30 21:21:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:20:42 - auxilium_planner.objective_repo - INFO - [objective_repository.py:105] - ✅ Created objective or task: Some random ass event (ID: 671f530f-9274-4238-bc9a-61871df5a91a)
+2025-06-30 22:20:42 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:20:53 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:20:53 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:21:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.MAIN_OBJECTIVE)
+2025-06-30 22:21:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:21:08 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK)
+2025-06-30 22:21:09 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:21:25 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:21:25 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:25:35 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:25:36 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:25:48 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:25:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:25:49 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:25:49 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:28:03 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:28:03 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:30:21 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:30:21 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:30:26 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:30:26 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:32:48 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:32:48 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:32:50 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: task)
+2025-06-30 22:32:51 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:33:43 - auxilium_planner.objective_repo - INFO - [objective_repository.py:141] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK)
+2025-06-30 22:33:43 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:35:23 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:35:23 - auxilium_planner.shutdown - INFO - [main.py:43] - 👋 Shutting down
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 22:35:24.049439
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:58] - ============================================================
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:59] - Auxilium Planner starting up at 2025-06-30 22:35:24.074806
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:60] - Log level: INFO
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:61] - Log file: logs/auxilium_planner.log
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [logging_config.py:62] - ============================================================
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [main.py:28] - 🚀 Starting Auxilium Productivity Planner
+2025-06-30 22:35:24 - auxilium_planner.startup - INFO - [main.py:34] - ✅ System ready
+2025-06-30 22:35:24 - watchfiles.main - INFO - [main.py:308] - 4 changes detected
+2025-06-30 22:35:54 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: task) - Updated fields: ['parent_id']
+2025-06-30 22:35:55 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:36:00 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Some random ass event (Type: main_objective) - Updated fields: ['parent_id']
+2025-06-30 22:36:00 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:36:08 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Some random ass event (Type: main_objective) - Updated fields: ['parent_id']
+2025-06-30 22:36:08 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:37:57 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: task) - Updated fields: ['parent_id']
+2025-06-30 22:37:57 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:38:05 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: task) - Updated fields: ['parent_id']
+2025-06-30 22:38:05 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:38:07 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Some random ass event (Type: main_objective) - Updated fields: ['parent_id']
+2025-06-30 22:38:07 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:38:15 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Some random ass event (Type: main_objective) - Updated fields: ['parent_id']
+2025-06-30 22:38:15 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:42:16 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK) - Updated fields: ['title', 'description', 'objective_type', 'start_date', 'due_date', 'all_day', 'priority_score', 'complexity_score', 'energy_requirement', 'status', 'completion_percentage']
+2025-06-30 22:42:16 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:42:19 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: task) - Updated fields: ['start_date', 'due_date', 'all_day']
+2025-06-30 22:42:19 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:44:02 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK) - Updated fields: ['title', 'description', 'objective_type', 'start_date', 'due_date', 'all_day', 'priority_score', 'complexity_score', 'energy_requirement', 'status', 'completion_percentage']
+2025-06-30 22:44:02 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:44:07 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK) - Updated fields: ['title', 'description', 'objective_type', 'start_date', 'due_date', 'all_day', 'priority_score', 'complexity_score', 'energy_requirement', 'status', 'completion_percentage']
+2025-06-30 22:44:08 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:44:14 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Task objective 1 (Type: ObjectiveType.TASK) - Updated fields: ['title', 'description', 'objective_type', 'start_date', 'due_date', 'all_day', 'priority_score', 'complexity_score', 'energy_requirement', 'status', 'completion_percentage']
+2025-06-30 22:44:14 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:44:38 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Some random ass event (Type: main_objective) - Updated fields: ['status', 'completion_percentage']
+2025-06-30 22:44:38 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:44:47 - auxilium_planner.objective_repo - INFO - [objective_repository.py:144] - ✅ Updated objective or task: Some random ass event (Type: ObjectiveType.MAIN_OBJECTIVE) - Updated fields: ['title', 'description', 'objective_type', 'start_date', 'due_date', 'all_day', 'priority_score', 'complexity_score', 'energy_requirement', 'status', 'completion_percentage']
+2025-06-30 22:44:47 - watchfiles.main - INFO - [main.py:308] - 1 change detected
+2025-06-30 22:48:24 - auxilium_planner.user_profile_repo - INFO - [user_profile_repository.py:138] - Saving user profile: default_user
+2025-06-30 22:48:24 - auxilium_planner.user_profile_repo - INFO - [user_profile_repository.py:144] - ✅ User profile saved successfully
+2025-06-30 22:48:24 - watchfiles.main - INFO - [main.py:308] - 1 change detected
